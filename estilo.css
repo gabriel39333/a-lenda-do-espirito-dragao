@@ -26,3 +26,10 @@ main{
 .img01{
     width: 50%;
 }
+.passo{
+    display: none;
+
+}
+.passo.ativo{
+    display: block;
+}
