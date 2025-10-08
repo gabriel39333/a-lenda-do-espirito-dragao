@@ -12,6 +12,12 @@ height: 800px;
 margin: 0;
     
 }
+button{
+
+    background-color: darkslategray;
+    color: dimgrey;
+    padding: 15px;
+}
 .img01{
     width: 50%;
 }
