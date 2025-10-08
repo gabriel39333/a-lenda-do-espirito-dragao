@@ -3,5 +3,14 @@
 body{
     background-color: green;
     color: black;
+    font-family: "gravitras one", serif;
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+
     
+}
+.img01{
+    width: 110%;
 }
