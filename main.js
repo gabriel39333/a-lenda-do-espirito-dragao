@@ -1,1 +1,1 @@
-alert("teste")
+alert("A lenda do espirito do dragão")
