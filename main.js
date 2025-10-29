@@ -1,1 +1,2 @@
-alert("A lenda do espirito dragão")
+const avanca =document.querySelectorAll(".btn-proximo")
+console.log(avanca)
